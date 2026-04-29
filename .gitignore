@@ -1,0 +1,21 @@
+# Unreal build output
+C:\Projects\Unreal-AI/Binaries/
+C:\Projects\Unreal-AI/Build/
+C:\Projects\Unreal-AI/Intermediate/
+C:\Projects\Unreal-AI/Saved/
+C:\Projects\Unreal-AI/DerivedDataCache/
+C:\Projects\Unreal-AI/FileOpenOrder/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compiled files
+*.pdb
+*.exp
+*.lib
+
+# Exclude packaged builds
+*.pak
+*.sig
