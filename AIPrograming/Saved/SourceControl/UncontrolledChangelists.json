@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Projects/Unreal-AI/AIPrograming/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Projects/Unreal-AI/AIPrograming/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_ClampedHealth.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Clicker.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Timer.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Toggle.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_RepeatingMessage.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_StatusMessage.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Countdown.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_RepeatMessage.uasset"
 			]
 		}
 	]
