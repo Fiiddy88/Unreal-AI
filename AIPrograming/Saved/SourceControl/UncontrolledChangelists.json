@@ -10,10 +10,25 @@
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Clicker.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Timer.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Toggle.uasset",
-				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_RepeatingMessage.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_StatusMessage.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Countdown.uasset",
-				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_RepeatMessage.uasset"
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_RepeatMessage.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/BP_PatrolNPC.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/BP_PatrolAIController.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/1H/D4UZR0NSUC0ZJRRDF3TSGS.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/NO/2EYIU2LQK9PZWO43AGKATU.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/XE/83V3KDT4I54O3DO9ZFC4XE.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/P3/VEN9Y9L8ZTEVOZ77A0NGGI.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/10/R6T92CPYP2B973V7I8UXQM.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/DU/9DHP5CVM4Y8PC6510AFFG3.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/BB_Guard.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/BT_Guard.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/BTTask_FindNextPatrolPoint.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_Patrol_Old.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_RepeatingMessage.uasset"
 			]
 		}
 	]
