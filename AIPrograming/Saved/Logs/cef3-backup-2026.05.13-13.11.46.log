@@ -1,0 +1,13 @@
+[0513/131258.389:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0513/151145.015:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0513/151145.107:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0513/151145.155:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0513/151145.176:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[0513/151145.198:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[0513/151145.219:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[0513/151145.239:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
+[0513/151145.438:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0513/151145.438:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0513/151145.446:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0513/151145.771:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0513/151146.113:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
