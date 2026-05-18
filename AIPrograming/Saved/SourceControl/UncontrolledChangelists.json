@@ -97,7 +97,6 @@
 				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/Cars/BP_DrivingCar.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/Cars/BP_RoadSpline.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Cartoon_City_Free/Actors/SM_Car_16.uasset",
-				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/Cars/BP_RoadSpline1.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Fab/Mobile_Optimize-Free_Low_Poly_Cars/Air_Plane_1.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Fab/Mobile_Optimize-Free_Low_Poly_Cars/Classic_Car_9.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Fab/Mobile_Optimize-Free_Low_Poly_Cars/Color.uasset",
@@ -108,6 +107,8 @@
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Fab/Mobile_Optimize-Free_Low_Poly_Cars/N_Van_10.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Fab/Mobile_Optimize-Free_Low_Poly_Cars/Pick_Up_11.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Fab/Mobile_Optimize-Free_Low_Poly_Cars/Sport_Car_39.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/BTTask_LookAround.uasset",
+				"C:/Projects/Unreal-AI/AIPrograming/Content/NPC/Cars/BP_RoadSpline1.uasset",
 				"C:/Projects/Unreal-AI/AIPrograming/Content/Exercises/BP_RepeatingMessage.uasset"
 			]
 		}
