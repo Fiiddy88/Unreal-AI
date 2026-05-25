@@ -1,4 +1,4 @@
-# Stealth Game AI - Unreal Engine 5
+# NIGHT CURFEW!!
 
 ## Project Description
 A stealth game where the player controls a young boy who is outside during curfew and must avoid patrolling drones. The boy must reach the lit up door as he sneaks through the town. Be careful, if one drone spots you they will all be alerted and come for you!
