@@ -95,3 +95,7 @@ When any guard detects the player (sight or hearing):
 - BP_Ending actor placed at goal location
 - Multiple BP_AI_Guard instances in level
 - Spline path configured for vehicle route
+
+
+Youtube Video:
+https://youtu.be/cZTerwWdmXs
