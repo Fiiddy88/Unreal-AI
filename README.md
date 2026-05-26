@@ -87,7 +87,7 @@ When any guard detects the player (sight or hearing):
 - Vehicle follows spline path around the level at constant speed
 - Continuously loops through spline route
 
-**Purpose:** Adds dynamic element to stealth gameplay - vehicle can transport player quickly through the town or serve as moving obstacle for guard patrols
+**Purpose:** Helps the player travers the map quickly. Can also be used to get away from the drones if detected 
 
 ## Setup Requirements
 - NavMesh covers walkable area
